@@ -1,15 +1,16 @@
-Vendor,Major,Minor,build,Hotfix,,,,,,,
-Fortinet,7,4,8,,,,,,,,
-Fortinet,7,2,13,,,,,,,,
-Palo Alto Networks,10,1,14,,,,,,,,
-Palo Alto Networks,10,2,18,,,,,,,,
-Palo Alto Networks,11,1,10,,,,,,,,
-Palo Alto Networks,11,2,10,,,,,,,,
-Palo Alto Networks,12,1,4,,,,,,,,
-SonicWall,7,2,0,7015,,,,,,,
-SonicWall,7,3,0,7012,,,,,,,
-SonicWall,7,3,1,7013,,,,,,,
-SonicWall,8,0,0,8011,,,,,,,
-SonicWall,8,1,0,8017,,,,,,,
-,,,,,,,,,,,
-,,,,,,,,,,,4
+Vendor,Model,Major,Minor,Build,Hotfix
+Palo Alto Networks,PA-220,10,2,16,6
+Palo Alto Networks,PA-440,11,1,13,3
+Palo Alto Networks,PA-450,11,1,13,3
+Palo Alto Networks,PA-460,11,1,13,3
+Palo Alto Networks,PA-520,12,1,4,3
+Palo Alto Networks,PA-820,11,1,13,3
+Palo Alto Networks,PA-1410,11,1,13,3
+Palo Alto Networks,PA-1420,11,1,13,3
+Palo Alto Networks,PA-3220,11,1,13,3
+Palo Alto Networks,PA-VM,11,2,10,3
+Palo Alto Networks,PA-3020,NONE,,,
+SonicWall,NSA 3700,7,3,2,7010
+SonicWall,TZ 470,7,3,2,7010
+SonicWall,TZ 670,7,3,2,7010
+SonicWall,TZ 300,NONE,,,
